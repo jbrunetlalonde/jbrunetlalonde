@@ -1,6 +1,6 @@
 # Hi, I'm Jordan 👋
 
-I'm an Senior Project Manager and full-stack developer with a passion for building scalable financial technology solutions. Currently leading SAP implementations while building my own startup.
+I'm a Senior Project Manager and full-stack developer with a passion for building scalable financial technology solutions. Currently leading SAP implementations while building my own startup.
 
 ## 🚀 What I'm Building
 
