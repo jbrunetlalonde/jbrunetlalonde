@@ -4,7 +4,7 @@ I'm a Senior Project Manager and full-stack developer with a passion for buildin
 
 ## 🚀 What I'm Building
 
-**Clervue** - Founder, COO & CTO  
+**Clervue** - Co-Founder  
 A business valuation SaaS platform revolutionizing how business valuators, financial analysts, and accountants work with financial data. We're tackling complex problems in trial balance processing, financial statement generation, and business valuations.
 
 ## 🛠️ Tech Stack
