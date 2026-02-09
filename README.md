@@ -1,3 +1,4 @@
+```lua
 -- ~/whoami
 
 local jordan = {
@@ -10,3 +11,4 @@ local jordan = {
   x = "https://x.com/jordanblalonde",
   linkedin = "https://www.linkedin.com/in/jbrunetlalonde/",
 }
+```
