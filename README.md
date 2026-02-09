@@ -8,5 +8,5 @@ local jordan = {
   editor = "cursor, zed",
   site = "https://www.jordbl.com",
   x = "https://x.com/jordanblalonde",
-  linkedin = "https://www.linkedin.com/in/jbrunetlalonde/"
+  linkedin = "https://www.linkedin.com/in/jbrunetlalonde/",
 }
