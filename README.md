@@ -2,7 +2,7 @@
 -- ~/whoami
 
 local jordan = {
-  role = "senior project manager, software engineer",
+  role = "Product Owner",
   company = "co founder j&w solutions & clervue",
   location = "montreal, qc",
   languages = { "typescript", "react", "python" },
